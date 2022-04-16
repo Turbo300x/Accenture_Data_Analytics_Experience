@@ -21,3 +21,5 @@ Business problem: Social buzz is a fast growing company and due to this they are
 **Tools used to carry out this pproject include:** 
 1. Microsoft SQL Server: This was used to clean the datasets and generate key insights into the datasets.
 2. Microsoft Power BI: This used to carry out visualization on the insights from my analysis on MS SQL Server.
+
+Link to my medium blog post: https://medium.com/@ayomideoshikoya/accenture-data-analytics-experience-742ef6cb2292
