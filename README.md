@@ -1,6 +1,6 @@
 # Accenture_Data_Analytics_Experience
 
-I participated in the open access Accenture iVirtual Experience Program with Forage. Where i worked as a data analyst to help an organization named "Social Buzz" to analyze their data and help them understand how they can levergae on thier massive amount of data.
+I participated in the open access Accenture Data Analytics Virtual Experience Program with Forage. Where i worked as a data analyst to help an organization named "Social Buzz" to analyze their data and help them understand how they can levergae on thier massive amount of data.
 
 **Project Brief:**
 
